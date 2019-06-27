@@ -1,0 +1,27 @@
+<application>
+  <component name="CodeLensSettings">
+    <limits>
+      <map>
+        <entry key="Top" value="5" />
+      </map>
+    </limits>
+    <anchor>
+      <map>
+        <entry key="ComplexityCodeInsightsProvider" value="Right" />
+        <entry key="VcsAuthorCodeLensProvider" value="Right" />
+      </map>
+    </anchor>
+    <enabled>
+      <map>
+        <entry key="ComplexityCodeInsightsProvider" value="false" />
+        <entry key="Derived symbols" value="false" />
+        <entry key="Exposing API" value="false" />
+        <entry key="Extension methods" value="false" />
+        <entry key="Unity implicit usage" value="false" />
+        <entry key="Unity serialized field" value="false" />
+        <entry key="Usages" value="false" />
+        <entry key="VcsAuthorCodeLensProvider" value="false" />
+      </map>
+    </enabled>
+  </component>
+</application>

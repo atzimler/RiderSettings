@@ -1,0 +1,14 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="u" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="NavBar-selectEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+</keymap>

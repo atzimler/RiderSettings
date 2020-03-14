@@ -11,4 +11,5 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="Terminal.SwitchFocusToEditor" />
 </keymap>
